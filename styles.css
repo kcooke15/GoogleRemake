@@ -1,0 +1,33 @@
+.logo {
+    padding-top: 175px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-color: blue;
+}
+body {
+    height: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+
+}
+li {
+    display: inline;
+   font-family: Arial, Helvetica, sans-serif;
+}
+li:last-child {
+    border-bottom: none;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 5px;
+
+}
